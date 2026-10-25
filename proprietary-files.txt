@@ -1,0 +1,76 @@
+# ============================================================================
+# ============================================================================
+etc/acdbdata/MTP/Bluetooth_cal.acdb:vendor/etc/acdbdata/MTP/Bluetooth_cal.acdb
+etc/acdbdata/MTP/General_cal.acdb:vendor/etc/acdbdata/MTP/General_cal.acdb
+etc/acdbdata/MTP/Global_cal.acdb:vendor/etc/acdbdata/MTP/Global_cal.acdb
+etc/acdbdata/MTP/Handset_cal.acdb:vendor/etc/acdbdata/MTP/Handset_cal.acdb
+etc/acdbdata/MTP/Hdmi_cal.acdb:vendor/etc/acdbdata/MTP/Hdmi_cal.acdb
+etc/acdbdata/MTP/Headset_cal.acdb:vendor/etc/acdbdata/MTP/Headset_cal.acdb
+etc/acdbdata/MTP/Speaker_cal.acdb:vendor/etc/acdbdata/MTP/Speaker_cal.acdb
+
+# ============================================================================
+# ============================================================================
+lib/hw/camera.msm8909.so:vendor/lib/hw/camera.vendor.msm8909.so|34c731da8b4dd8c939c889bcfa67d7f3f0cb4a1f
+
+# ============================================================================
+# ============================================================================
+vendor/lib/libmmcamera2_sensor_modules.so|6ec427156f6c6798f1c63958600b850872026aea
+vendor/lib/libmmcamera_ov8858_htc.so|b1f4bd3d3ce6c8e1b1401db23d970baea14ff5f5
+vendor/lib/libmmcamera_ov2680_htc.so|6f471cc61fcf8086895b03f5a335109c554046ff
+vendor/lib/libactuator_ti201_act.so|ff44c7b88b8018c70c47142f58551a395a11e73d
+vendor/lib/libactuator_ti201_act_camera.so|851e2d9863c6a4ad399e86c75c62d29ccb412f3f
+vendor/lib/libactuator_ti201_act_camcorder.so|418c05063000ccb8c6e57be90afc4c845cfc77c0
+
+lib/libawb_calibration.so:vendor/lib/libawb_calibration.so|772e1838cbf06131b8e6d6d4d03dd34ddc60f5cb
+
+# ============================================================================
+# ============================================================================
+vendor/lib/libchromatix_ov8858_htc_common.so
+vendor/lib/libchromatix_ov8858_htc_default_video.so
+vendor/lib/libchromatix_ov8858_htc_hdr.so
+vendor/lib/libchromatix_ov8858_htc_hdr_16_9.so
+vendor/lib/libchromatix_ov8858_htc_liveshot.so
+vendor/lib/libchromatix_ov8858_htc_liveshot_16_9.so
+vendor/lib/libchromatix_ov8858_htc_night.so
+vendor/lib/libchromatix_ov8858_htc_night_16_9.so
+vendor/lib/libchromatix_ov8858_htc_preview.so
+vendor/lib/libchromatix_ov8858_htc_preview_16_9.so
+vendor/lib/libchromatix_ov8858_htc_qtr_15fps.so
+vendor/lib/libchromatix_ov2680_htc_common.so
+vendor/lib/libchromatix_ov2680_htc_default_video.so
+vendor/lib/libchromatix_ov2680_htc_hdr.so
+vendor/lib/libchromatix_ov2680_htc_preview.so
+vendor/lib/libchromatix_ov2680_htc_preview_15fps.so
+vendor/lib/libchromatix_ov2680_htc_snapshot.so
+
+# ============================================================================
+# ============================================================================
+vendor/lib/libhtc_common.so
+
+# ============================================================================
+# ============================================================================
+bin/rmt_storage:vendor/bin/rmt_storage_htc|c8b8d81f3755d71c44eefa033c8437449dd47aaa
+vendor/lib/libtime_genoff.so
+
+lib/librmnetctl.so:vendor/lib/htc-netmgr/librmnetctl.so|b30a55440fb1c2622a75bbb4b7394c9c4e9694bc
+vendor/lib/libcneapiclient.so:vendor/lib/htc-netmgr/libcneapiclient.so|0d1d4b9f78704232149b09b744753df569458576
+lib/libcnefeatureconfig.so:vendor/lib/htc-netmgr/libcnefeatureconfig.so|40c2baf03111687fca5c84cc0a5a7ade40ca7c02
+lib/libstlport.so:vendor/lib/htc-netmgr/libstlport.so|468aed0ed8f603171c724bdc5d5630d039460526
+
+# ============================================================================
+# ============================================================================
+etc/firmware/venus.b00:vendor/firmware/venus.b00|af8e77beb48da2583b77847f646814a6f1407e52
+etc/firmware/venus.b01:vendor/firmware/venus.b01|401789e1bb49c443b962bec35ce5f73af2a9958c
+etc/firmware/venus.b02:vendor/firmware/venus.b02|3ad107465353675c2f1af977839cd5e40cce9f57
+etc/firmware/venus.b03:vendor/firmware/venus.b03|e0c98f687255dbb9def35aede6f162970b8a9d77
+etc/firmware/venus.b04:vendor/firmware/venus.b04|c1756e0567d10a1173f481cd367ff4637b2dd77f
+etc/firmware/venus.mbn:vendor/firmware/venus.mbn|0e0c4b2b7a071c164145298c0659fd32f7884d0e
+etc/firmware/venus.mdt:vendor/firmware/venus.mdt|bdd06505c7894f3e14940188cfbfbcc0ac3a1aa4
+
+# ============================================================================
+# ============================================================================
+
+# ============================================================================
+# ============================================================================
+
+etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin:vendor/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin
